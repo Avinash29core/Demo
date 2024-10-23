@@ -1,4 +1,4 @@
 # Demo
 My first git repository!
 <br>
-Author: Avinash
+Author: Avinash (Student)
